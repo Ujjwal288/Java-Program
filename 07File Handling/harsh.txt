@@ -1,0 +1,2 @@
+hello from buffer 
+this is efficient writing 

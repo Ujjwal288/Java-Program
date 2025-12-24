@@ -1,0 +1,7 @@
+Thread : A thread is the smallest unit of execution within a process. A process can have multiple thread , which
+        share the same resources but can run independently.
+
+Multithreading :Multithreading refers to the abillity to execute multiple threads within a single proces concurrently.
+
+.Multithreading enhances the efficiency of multiasking by breaking down individual tasks into smaller subtasks or
+ threads. These thread can be processed simultaneously making better use of the CPU's capabilities.
