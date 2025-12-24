@@ -1,2 +1,2 @@
 # Java-Program
-Collection of my all Java program
+Collections of my all Java program
